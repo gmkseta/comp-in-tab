@@ -21,7 +21,7 @@ import './components'
 
 var app = new Framework7({
   name: 'My App', // App name
-  theme: 'auto', // Automatic theme detection
+  theme: 'ios', // Automatic theme detection
   el: '#app', // App root element
   component: App, // App main component
 
